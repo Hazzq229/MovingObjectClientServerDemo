@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingObjectClientDemo", "MovingObjectClientDemo.csproj", "{8B61811F-6C38-C9FD-7E6D-78FCEB8E690F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B61811F-6C38-C9FD-7E6D-78FCEB8E690F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B61811F-6C38-C9FD-7E6D-78FCEB8E690F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B61811F-6C38-C9FD-7E6D-78FCEB8E690F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B61811F-6C38-C9FD-7E6D-78FCEB8E690F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {146F16A3-9A28-4815-B418-7CCD12FF6867}
+	EndGlobalSection
+EndGlobal
